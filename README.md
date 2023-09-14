@@ -1,4 +1,4 @@
-# ‎ ‎ ‎ ‎What's Up, it's a pleasure to have you on my GitHub profile!
+# ‎What's up, it's a pleasure to have you on my GitHub profile!
  <div align = "center">
   <a href="https://github.com/euCRUZ">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=euCRUZ&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
