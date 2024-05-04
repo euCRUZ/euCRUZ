@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euCRUZ&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Giovanni Cruz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euCRUZ&layout=compact&hide_border=true&title_color=00FFFF&text_color=00bfbf&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euCRUZ&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Giovanni Cruz github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euCRUZ&layout=compact&hide_border=true&title_color=00FFFF&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
