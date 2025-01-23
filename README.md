@@ -15,19 +15,19 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,py,java)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
 
 - Frontend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=next,vite,react,tailwind,html,css,bootstrap)](https://skillicons.dev)
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,sequelize)](https://skillicons.dev)
 
 - Tools
 
