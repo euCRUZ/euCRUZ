@@ -24,7 +24,7 @@ These are some of the technologies and tools I use:
 
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,sequelize)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=supabase,firebase,mysql,mongodb,postgres,sqlite,sequelize)](https://skillicons.dev)
 
 - Tools
 
