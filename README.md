@@ -4,28 +4,22 @@
 
 
 
-### ⚡ Technologies:
+## 💻 Tech Stack
 
-These are some of the technologies and tools I use:
+### 👨🏻‍💻 Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
 
-- Languages
+### 🌐 Front-End
+[![Frontend](https://skillicons.dev/icons?i=next,react,vite,tailwind,bootstrap,html,css)](https://skillicons.dev)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
+### 🔧 Back-End
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-- Frontend
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase,sequelize)](https://skillicons.dev)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=next,vite,react,tailwind,html,css,bootstrap)](https://skillicons.dev)
+### ⚙️ DevOps & Tools
+[![Tools](https://skillicons.dev/icons?i=aws,git,github,postman,figma)](https://skillicons.dev)
 
-- Backend
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-- Database
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=supabase,firebase,mysql,mongodb,postgres,sqlite,sequelize)](https://skillicons.dev)
-
-- Tools
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,figma,postman)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
