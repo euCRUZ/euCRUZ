@@ -19,7 +19,7 @@
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase,sequelize)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools
-[![Tools](https://skillicons.dev/icons?i=aws,git,github,postman,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,jest,git,github,postman,figma)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
